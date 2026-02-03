@@ -2,19 +2,46 @@
 
 **FitStep** is a professional-grade Android fitness application designed to help users monitor their daily physical activity, track calorie expenditure, and stay motivated through a gamified reward system. This project focuses on a seamless user experience, real-time data processing, and local data privacy.
 
----
-
 ## 📸 App Preview
 
-| Main Dashboard | Meal Suggestions | Activity History | Goal Selection |
-| :---: | :---: | :---: | :---: |
-| [![Dashboard](assets/main_screen.jpeg)](assets/main_screen.jpeg) | [![Meals](assets/meal_suggestion_screen.jpeg)](assets/meal_suggestion_screen.jpeg) | [![History](assets/date_picker.jpeg)](assets/date_picker.jpeg) | [![Goal](assets/calorie_picker.jpeg)](assets/calorie_picker.jpeg) |
-| *Real-time tracking* | *Smart food advice* | *Calendar integration* | *Target setting* |
+<table>
+  <tr>
+    <td align="center"><b>Main Dashboard</b></td>
+    <td align="center"><b>Meal Suggestions</b></td>
+    <td align="center"><b>Activity History</b></td>
+    <td align="center"><b>Goal Selection</b></td>
+  </tr>
+  <tr>
+    <td>
+      <a href="assets/main_screen.jpeg">
+        <img src="assets/main_screen.jpeg" width="200" alt="Main Dashboard">
+      </a>
+    </td>
+    <td>
+      <a href="assets/meal_suggestion_screen.jpeg">
+        <img src="assets/meal_suggestion_screen.jpeg" width="200" alt="Meal Suggestions">
+      </a>
+    </td>
+    <td>
+      <a href="assets/date_picker.jpeg">
+        <img src="assets/date_picker.jpeg" width="200" alt="History">
+      </a>
+    </td>
+    <td>
+      <a href="assets/calorie_picker.jpeg">
+        <img src="assets/calorie_picker.jpeg" width="200" alt="Goal Selection">
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br>
 
 > **Achievement System:** The app features a specialized tracking logic to notify users upon reaching their fitness milestones.
-> [![Achievement](assets/calorie_achievement.jpeg)](assets/calorie_achievement.jpeg)
-
----
+<br>
+<a href="assets/.calorie_achievement.jpeg">
+  <img src="assets/.calorie_achievement.jpeg" width="300" alt="Achievement">
+</a>
 
 ## ✨ Key Features
 
