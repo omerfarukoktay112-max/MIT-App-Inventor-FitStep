@@ -8,11 +8,11 @@
 
 | Main Dashboard | Meal Suggestions | Activity History | Goal Selection |
 | :---: | :---: | :---: | :---: |
-| ![Dashboard](assets/main_screen.jpeg) | ![Meals](assets/meal_suggestion_screen.jpeg) | ![History](assets/date_picker.jpeg) | ![Goal](assets/calorie_picker.jpeg) |
+| [![Dashboard](assets/main_screen.jpeg)](assets/main_screen.jpeg) | [![Meals](assets/meal_suggestion_screen.jpeg)](assets/meal_suggestion_screen.jpeg) | [![History](assets/date_picker.jpeg)](assets/date_picker.jpeg) | [![Goal](assets/calorie_picker.jpeg)](assets/calorie_picker.jpeg) |
 | *Real-time tracking* | *Smart food advice* | *Calendar integration* | *Target setting* |
 
 > **Achievement System:** The app features a specialized tracking logic to notify users upon reaching their fitness milestones.
-> ![Achievement](assets/calorie_achievement.jpeg)
+> [![Achievement](assets/calorie_achievement.jpeg)](assets/calorie_achievement.jpeg)
 
 ---
 
