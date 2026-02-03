@@ -1,55 +1,16 @@
 # 👟 FitStep: Activity Tracker & Gamified Fitness App
 
-**FitStep** is a professional-grade Android fitness application designed to help users monitor their daily physical activity, track calorie expenditure, and stay motivated through a gamified reward system. This project focuses on a seamless user experience, real-time data processing, and local data privacy.
+**FitStep** is a professional-grade Android fitness application designed to monitor daily physical activity, track calorie expenditure, and motivate users through a gamified reward system. This project emphasizes seamless real-time data processing, local data privacy, and intuitive user experience.
 
-## 📸 App Preview
-
-<table>
-  <tr>
-    <td align="center"><b>Main Dashboard</b></td>
-    <td align="center"><b>Meal Suggestions</b></td>
-    <td align="center"><b>Activity History</b></td>
-    <td align="center"><b>Goal Selection</b></td>
-  </tr>
-  <tr>
-    <td>
-      <a href="assets/main_screen.jpeg">
-        <img src="assets/main_screen.jpeg" width="200" alt="Main Dashboard">
-      </a>
-    </td>
-    <td>
-      <a href="assets/meal_suggestion_screen.jpeg">
-        <img src="assets/meal_suggestion_screen.jpeg" width="200" alt="Meal Suggestions">
-      </a>
-    </td>
-    <td>
-      <a href="assets/date_picker.jpeg">
-        <img src="assets/date_picker.jpeg" width="200" alt="History">
-      </a>
-    </td>
-    <td>
-      <a href="assets/calorie_picker.jpeg">
-        <img src="assets/calorie_picker.jpeg" width="200" alt="Goal Selection">
-      </a>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-> **Achievement System:** The app features a specialized tracking logic to notify users upon reaching their fitness milestones.
-<br>
-<a href="assets/.calorie_achievement.jpeg">
-  <img src="assets/.calorie_achievement.jpeg" width="300" alt="Achievement">
-</a>
+---
 
 ## ✨ Key Features
 
 * **Real-time Calorie Tracking:** Leverages mobile pedometer sensors to provide instant calculations of energy expenditure during physical activities.
 * **FitCoin Reward System:** A gamified experience where reaching personalized calorie targets awards users with "FitCoins," incentivizing a more active lifestyle.
-* **Local Data Persistence:** Utilizes **TinyDB** to ensure all fitness logs are stored securely on the device. Your data remains private and accessible even without an internet connection.
-* **Historical Performance Analytics:** An integrated calendar interface allows users to review their past performance and monitor long-term progress.
-* **Dynamic Meal Suggestions:** A built-in smart logic system that provides nutritional recommendations based on the current time of day (Breakfast, Lunch, Dinner).
+* **Local Data Persistence:** Utilizes **TinyDB** to ensure all fitness logs are stored securely on the device. Your data remains private and accessible offline.
+* **Historical Performance Analytics:** Integrated calendar interface allows users to review past performance and monitor long-term progress.
+* **Dynamic Meal Suggestions:** A built-in smart logic system provides nutritional recommendations based on the current time of day (Breakfast, Lunch, Dinner).
 * **Visual Progress Feedback:** Interactive UI components and real-time notifications to keep users engaged during their workouts.
 
 ## 🛠 Tech Stack
@@ -63,7 +24,7 @@
 
 * 📂 **`src/`**: Contains the `.aia` source file for development and review.
 * 📂 **`build/`**: Contains the production-ready `.apk` installation package.
-* 📂 **`assets/`**: UI components, branding assets, and application screenshots.
+* 📂 **`assets/`**: UI components, branding materials, and application screenshots for visual reference.
 
 ## ⚙️ How to Run
 
