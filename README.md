@@ -12,7 +12,7 @@
 | *Real-time tracking* | *Smart food advice* | *Calendar integration* | *Target setting* |
 
 > **Achievement System:** The app features a specialized tracking logic to notify users upon reaching their fitness milestones.
-> ![Achievement](assets/.calorie_achievement.jpeg)
+> ![Achievement](assets/calorie_achievement.jpeg)
 
 ---
 
