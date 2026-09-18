@@ -4,6 +4,8 @@
 
 ---
 
+> **⚠️ Note:** The current app UI (screens, buttons, labels) is Turkish-only. English localization is planned — see Roadmap below.
+
 ## ✨ Key Features
 
 * **Real-time Calorie Tracking:** Leverages mobile pedometer sensors to provide instant calculations of energy expenditure during physical activities.
